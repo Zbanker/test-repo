@@ -1,0 +1,7 @@
+num1 = int(input('Introduceti primul numar: '))
+num2 = int(input('Introduceti al doilea numar: '))
+print(f'Suma numerelor: {num1 + num2}')
+print(f'Diferenta numerelor: {num1 - num2}')
+print(f'Produsul numerelor: {num1 * num2}')
+print(f'Catul numerelor: {num1 // num2}')
+print(f'Restul Impartirii: {num1 % num2}')
