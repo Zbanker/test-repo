@@ -1,0 +1,1 @@
+Test despre python pentru a-mi testa abilitatile de python.
